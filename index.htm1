@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ثيم متجر بسيط</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>مرحبا بكم في متجرنا</h1>
+    <nav>
+      <a href="#">الرئيسية</a> |
+      <a href="#">المنتجات</a> |
+      <a href="#">اتصل بنا</a>
+    </nav>
+  </header>
+  <main>
+    <section class="products">
+      <div class="product">
+        <h2>منتج 1</h2>
+        <p>وصف بسيط للمنتج 1</p>
+        <button>اشترِ الآن</button>
+      </div>
+      <div class="product">
+        <h2>منتج 2</h2>
+        <p>وصف بسيط للمنتج 2</p>
+        <button>اشترِ الآن</button>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>جميع الحقوق محفوظة &copy; 2025</p>
+  </footer>
+</body>
+</html>
